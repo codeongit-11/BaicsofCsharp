@@ -1,5 +1,6 @@
 ﻿using System;
-using DSA.Algorithm;
+using DSA.Algorithms;
+using System;
 
 namespace DSA
 {
@@ -9,15 +10,13 @@ namespace DSA
         {
             //Stack stack = new Stack();
             //stack.Do();
-
-            // Queue queue = new Queue();
-            // queue.Do();
-
-            // LinkedList linkedlist = new LinkedList();
-            // linkedlist.Do();
-
-            BinarySearch.Do();
-
+            //Queue q = new Queue();
+            //q.Do();
+            //LinkedList list = new LinkedList();
+            //list.Do();
+            //BinarySearch.Do();
+            //BubbleSort.Do();
+            new MergeSort().Do();
         }
     }
 }
