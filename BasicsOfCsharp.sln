@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32106.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicsOfCsharp", "BasicsOfCsharp\BasicsOfCsharp.csproj", "{1958C2E4-A9F2-471E-8A54-9E10CFA513A2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSA", "DSA\DSA.csproj", "{65F7A19F-EDDC-4FED-80C2-A5CFE462124D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{8795859C-B16D-41EE-85DF-CE2E65F75D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSConcept", "OOPSConcept\OOPSConcept.csproj", "{4F67E325-79D2-417C-841A-CAE0D47FD88D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{65F7A19F-EDDC-4FED-80C2-A5CFE462124D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65F7A19F-EDDC-4FED-80C2-A5CFE462124D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65F7A19F-EDDC-4FED-80C2-A5CFE462124D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8795859C-B16D-41EE-85DF-CE2E65F75D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8795859C-B16D-41EE-85DF-CE2E65F75D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8795859C-B16D-41EE-85DF-CE2E65F75D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8795859C-B16D-41EE-85DF-CE2E65F75D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F67E325-79D2-417C-841A-CAE0D47FD88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F67E325-79D2-417C-841A-CAE0D47FD88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F67E325-79D2-417C-841A-CAE0D47FD88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F67E325-79D2-417C-841A-CAE0D47FD88D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
